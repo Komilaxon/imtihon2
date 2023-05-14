@@ -164,11 +164,11 @@ body {
 /* hero */
 .slick-track{
     display: flex;
+    gap: 15px;
 }
 
 .slick-list{
     display: flex;
-    gap: 10px;
     overflow: hidden;
 }
 .slick-arrow{
@@ -284,6 +284,7 @@ body {
   line-height: 150%;
   letter-spacing: 0.5px;
   color: #223263;
+  padding-top: 15px;
   margin-bottom: 8px;
 }
 .product_rate {
